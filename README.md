@@ -28,4 +28,4 @@ This is a fullstack web application built on Python using "FastAPI" for the back
 
 ## Walkthrough/Demo
 
-![walkthrough](tba)
+![walkthrough](finance-app.gif)
