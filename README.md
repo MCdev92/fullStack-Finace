@@ -8,6 +8,7 @@ This is a fullstack web application built on Python using "FastAPI" for the back
 * FastApi -> https://fastapi.tiangolo.com/
 * React -> https://react.dev/learn/installation
 * Nodejs-> https://nodejs.org/en
+* SQLite --> https://www.sqlite.org/download.html
 * Bootstrap 5 -> https://getbootstrap.com/docs/5.0/getting-started/introduction/
 
 ### Setup
